@@ -1,0 +1,7 @@
+br\edu\ifsul\enums\CardValue.class
+br\edu\ifsul\Client.class
+br\edu\ifsul\model\Card.class
+br\edu\ifsul\model\Deck.class
+br\edu\ifsul\Server.class
+br\edu\ifsul\enums\CardCor.class
+br\edu\ifsul\model\Player.class
